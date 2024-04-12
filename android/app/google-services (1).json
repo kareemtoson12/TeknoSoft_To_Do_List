@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "119242973805",
+    "project_id": "teknosoft-e785f",
+    "storage_bucket": "teknosoft-e785f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119242973805:android:c3a6bdec9ac1caadc3d564",
+        "android_client_info": {
+          "package_name": "com.example.teknotodolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119242973805-8nb7gk6jfl4k1fj9kppqueejbn1sub1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.teknotodolist",
+            "certificate_hash": "453c9f3773761973cc7fa595b6a00d1872c8018d"
+          }
+        },
+        {
+          "client_id": "119242973805-8kai086joca5hfnnajuidllrf1g7rdr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-zeRNSNp23rchs9oKLtsrXfv9FrydgFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119242973805-8kai086joca5hfnnajuidllrf1g7rdr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
